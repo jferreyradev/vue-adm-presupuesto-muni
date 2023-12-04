@@ -8,8 +8,9 @@ import TheHeader from './components/TheHeader.vue';
   <header>
     <TheHeader />
   </header>
-
-  <RouterView />
+  <div class="app">
+    <RouterView />
+  </div>  
 </template>
 
 <style scoped>

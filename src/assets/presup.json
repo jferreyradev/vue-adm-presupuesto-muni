@@ -1,0 +1,1432 @@
+[
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 1,
+        "IDDETALLE": 1,
+        "CUENTA": "1",
+        "DESCRIPCION": " EROGACIONES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 2,
+        "IDDETALLE": 2,
+        "CUENTA": "1 1",
+        "DESCRIPCION": "    ",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 3,
+        "IDDETALLE": 3,
+        "CUENTA": "1 1 1",
+        "DESCRIPCION": "     EROGACIONES CORRIENTES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 4,
+        "IDDETALLE": 4,
+        "CUENTA": "1 1 1 01",
+        "DESCRIPCION": "        OPERACION",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 5,
+        "IDDETALLE": 5,
+        "CUENTA": "1 1 1 01 11",
+        "DESCRIPCION": "           PERSONAL",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 6,
+        "IDDETALLE": 6,
+        "CUENTA": "1 1 1 01 11 10",
+        "DESCRIPCION": "              PERSONAL PERMANENTE",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 7,
+        "IDDETALLE": 7,
+        "CUENTA": "1 1 1 01 11 10 01",
+        "DESCRIPCION": "                 Remuneraciones",
+        "HIJO": 1,
+        "MONTO": 129387.65000000001,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 8,
+        "IDDETALLE": 8,
+        "CUENTA": "1 1 1 01 11 10 02",
+        "DESCRIPCION": "                 Adicionales",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 9,
+        "IDDETALLE": 9,
+        "CUENTA": "1 1 1 01 11 10 03",
+        "DESCRIPCION": "                 Contribuciones",
+        "HIJO": 1,
+        "MONTO": 12354.98,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 10,
+        "IDDETALLE": 10,
+        "CUENTA": "1 1 1 01 11 20",
+        "DESCRIPCION": "              PERSONAL TEMPORARIO",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 11,
+        "IDDETALLE": 11,
+        "CUENTA": "1 1 1 01 11 20 01",
+        "DESCRIPCION": "                 Remuneraciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 12,
+        "IDDETALLE": 12,
+        "CUENTA": "1 1 1 01 11 20 02",
+        "DESCRIPCION": "                 Adicionales",
+        "HIJO": 1,
+        "MONTO": 1624,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 13,
+        "IDDETALLE": 13,
+        "CUENTA": "1 1 1 01 11 20 03",
+        "DESCRIPCION": "                 Contribuciones",
+        "HIJO": 1,
+        "MONTO": 87655,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 14,
+        "IDDETALLE": 14,
+        "CUENTA": "1 1 1 01 11 30",
+        "DESCRIPCION": "              ASIGNACIONES FAMILIARES",
+        "HIJO": 1,
+        "MONTO": 5422,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 15,
+        "IDDETALLE": 15,
+        "CUENTA": "1 1 1 01 11 40",
+        "DESCRIPCION": "              SERVICIOS EXTRAORDINARIOS",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 16,
+        "IDDETALLE": 16,
+        "CUENTA": "1 1 1 01 11 50",
+        "DESCRIPCION": "              ASISTENCIA SOC. AL PERSONAL",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 17,
+        "IDDETALLE": 17,
+        "CUENTA": "1 1 1 01 12",
+        "DESCRIPCION": "           BIENES Y SERVICIOS NO PERSONALES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 18,
+        "IDDETALLE": 18,
+        "CUENTA": "1 1 1 01 12 10",
+        "DESCRIPCION": "              BIENES DE CONSUMO",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 19,
+        "IDDETALLE": 19,
+        "CUENTA": "1 1 1 01 12 10 01",
+        "DESCRIPCION": "                 Alimentos y Prod. Agropecuarios",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 20,
+        "IDDETALLE": 20,
+        "CUENTA": "1 1 1 01 12 10 02",
+        "DESCRIPCION": "                 Prod. de la Minería, Petróleo y deriv.",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 21,
+        "IDDETALLE": 21,
+        "CUENTA": "1 1 1 01 12 10 03",
+        "DESCRIPCION": "                 Textiles y Confecciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 22,
+        "IDDETALLE": 22,
+        "CUENTA": "1 1 1 01 12 10 04",
+        "DESCRIPCION": "                 Madera, corcho y sus Manufacturas",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 23,
+        "IDDETALLE": 23,
+        "CUENTA": "1 1 1 01 12 10 05",
+        "DESCRIPCION": "                 Papel, Cartón e Impresos",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 24,
+        "IDDETALLE": 24,
+        "CUENTA": "1 1 1 01 12 10 06",
+        "DESCRIPCION": "                 Productos Químicos y Medicinales",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 25,
+        "IDDETALLE": 25,
+        "CUENTA": "1 1 1 01 12 10 07",
+        "DESCRIPCION": "                 Cueros, Plasticos, Caucho y sus Manufac.",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 26,
+        "IDDETALLE": 26,
+        "CUENTA": "1 1 1 01 12 10 08",
+        "DESCRIPCION": "                 Piedras, Vidrios y Ceramicos",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 27,
+        "IDDETALLE": 27,
+        "CUENTA": "1 1 1 01 12 10 09",
+        "DESCRIPCION": "                 Metales comunes y sus Manufact.",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 28,
+        "IDDETALLE": 28,
+        "CUENTA": "1 1 1 01 12 10 10",
+        "DESCRIPCION": "                 Elementos y Utiles Diversos",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 29,
+        "IDDETALLE": 29,
+        "CUENTA": "1 1 1 01 12 10 11",
+        "DESCRIPCION": "                 Otros Bienes de Consumo",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 30,
+        "IDDETALLE": 30,
+        "CUENTA": "1 1 1 01 12 20",
+        "DESCRIPCION": "              SERVICIOS NO PERSONALES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 31,
+        "IDDETALLE": 31,
+        "CUENTA": "1 1 1 01 12 20 01",
+        "DESCRIPCION": "                 Electricidad, Gas y Agua",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 32,
+        "IDDETALLE": 32,
+        "CUENTA": "1 1 1 01 12 20 02",
+        "DESCRIPCION": "                 Transporte y Almacenaje",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 33,
+        "IDDETALLE": 33,
+        "CUENTA": "1 1 1 01 12 20 03",
+        "DESCRIPCION": "                 Comunicaciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 34,
+        "IDDETALLE": 34,
+        "CUENTA": "1 1 1 01 12 20 04",
+        "DESCRIPCION": "                 Pasajes, Viaticos y Movilidad",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 35,
+        "IDDETALLE": 35,
+        "CUENTA": "1 1 1 01 12 20 05",
+        "DESCRIPCION": "                 Honorarios y Retribuciones a Terceros",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 36,
+        "IDDETALLE": 36,
+        "CUENTA": "1 1 1 01 12 20 06",
+        "DESCRIPCION": "                 Seguros, Comiciones, Impuestos, Tasas y Derechos",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 37,
+        "IDDETALLE": 37,
+        "CUENTA": "1 1 1 01 12 20 07",
+        "DESCRIPCION": "                 Publicidad y Propaganda",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 38,
+        "IDDETALLE": 38,
+        "CUENTA": "1 1 1 01 12 20 08",
+        "DESCRIPCION": "                 Cortesia, Homenaje, Estudios e Investigaciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 39,
+        "IDDETALLE": 39,
+        "CUENTA": "1 1 1 01 12 20 09",
+        "DESCRIPCION": "                 Gastos Judiciales, Multas e Indemnizaciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 40,
+        "IDDETALLE": 40,
+        "CUENTA": "1 1 1 01 12 20 10",
+        "DESCRIPCION": "                 Alquileres",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 41,
+        "IDDETALLE": 41,
+        "CUENTA": "1 1 1 01 12 20 11",
+        "DESCRIPCION": "                 Otros",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 42,
+        "IDDETALLE": 42,
+        "CUENTA": "1 1 1 01 13",
+        "DESCRIPCION": "           FESTIVALES",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 43,
+        "IDDETALLE": 43,
+        "CUENTA": "1 1 1 02",
+        "DESCRIPCION": "        INTERESES DE DEUDAS",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 44,
+        "IDDETALLE": 44,
+        "CUENTA": "1 1 1 02 21",
+        "DESCRIPCION": "           INTERESES DE DEUDA",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 45,
+        "IDDETALLE": 45,
+        "CUENTA": "1 1 1 02 21 20",
+        "DESCRIPCION": "              INTERESES DE DEUDAS FINANCIERAS",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 46,
+        "IDDETALLE": 46,
+        "CUENTA": "1 1 1 03",
+        "DESCRIPCION": "        TRANSFERENCIAS",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 47,
+        "IDDETALLE": 47,
+        "CUENTA": "1 1 1 03 31",
+        "DESCRIPCION": "           TRANSF. PARA FIN. EROG. CORRIENTES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 48,
+        "IDDETALLE": 48,
+        "CUENTA": "1 1 1 03 31 01",
+        "DESCRIPCION": "              APORTES A OTROS ENTES(H.C.D.)",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 49,
+        "IDDETALLE": 49,
+        "CUENTA": "1 1 1 03 31 02",
+        "DESCRIPCION": "              ACCION SOCIAL",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 50,
+        "IDDETALLE": 50,
+        "CUENTA": "1 1 1 03 31 02 01",
+        "DESCRIPCION": "                 Ayudas Economicas",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 51,
+        "IDDETALLE": 51,
+        "CUENTA": "1 1 1 03 31 02 02",
+        "DESCRIPCION": "                 Reconocimiento de Servicios",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 52,
+        "IDDETALLE": 52,
+        "CUENTA": "1 1 1 03 31 02 03",
+        "DESCRIPCION": "                 Servicios Funebres",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 53,
+        "IDDETALLE": 53,
+        "CUENTA": "1 1 1 03 31 02 04",
+        "DESCRIPCION": "                 Otros",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 54,
+        "IDDETALLE": 54,
+        "CUENTA": "1 1 1 03 31 03",
+        "DESCRIPCION": "              COMEDORES",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 55,
+        "IDDETALLE": 55,
+        "CUENTA": "1 1 1 03 31 04",
+        "DESCRIPCION": "              APORT. PARA ACTIV. NO LUCRATIVAS",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 56,
+        "IDDETALLE": 56,
+        "CUENTA": "1 1 1 03 31 05",
+        "DESCRIPCION": "              DEPORTES",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 57,
+        "IDDETALLE": 57,
+        "CUENTA": "1 1 1 03 31 06",
+        "DESCRIPCION": "              ACTIVIDADES CULTURALES",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 58,
+        "IDDETALLE": 58,
+        "CUENTA": "1 1 1 03 31 07",
+        "DESCRIPCION": "              TURISMO: PROMOCION Y DESARROLLO",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 59,
+        "IDDETALLE": 59,
+        "CUENTA": "1 1 1 03 31 08",
+        "DESCRIPCION": "              MEDIOS DE DIFUSION MUNICIPAL",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 60,
+        "IDDETALLE": 60,
+        "CUENTA": "1 1 1 03 31 09",
+        "DESCRIPCION": "              APORTES P/FOMENTO ECONOMICO",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 61,
+        "IDDETALLE": 61,
+        "CUENTA": "1 1 1 04",
+        "DESCRIPCION": "        A CLASIFICAR",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 62,
+        "IDDETALLE": 62,
+        "CUENTA": "1 1 1 04 41",
+        "DESCRIPCION": "           CREDITO ADICIONAL PARA FIN. EROG. CTES.",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 63,
+        "IDDETALLE": 63,
+        "CUENTA": "1 1 2",
+        "DESCRIPCION": "     EROGACIONES DE CAPITAL",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 64,
+        "IDDETALLE": 64,
+        "CUENTA": "1 1 2 05",
+        "DESCRIPCION": "        INVERSION REAL",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 65,
+        "IDDETALLE": 65,
+        "CUENTA": "1 1 2 05 51",
+        "DESCRIPCION": "           BIENES DE CAPITAL",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 66,
+        "IDDETALLE": 66,
+        "CUENTA": "1 1 2 05 51 10",
+        "DESCRIPCION": "              EQUIPAMIENTO",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 67,
+        "IDDETALLE": 67,
+        "CUENTA": "1 1 2 05 51 20",
+        "DESCRIPCION": "              INVERSION ADMINISTRATIVA",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 68,
+        "IDDETALLE": 68,
+        "CUENTA": "1 1 2 05 52",
+        "DESCRIPCION": "           TRABAJOS PUBLICOS",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 69,
+        "IDDETALLE": 69,
+        "CUENTA": "1 1 2 05 52 00",
+        "DESCRIPCION": "              SIN ESPECIFICAR",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 70,
+        "IDDETALLE": 70,
+        "CUENTA": "1 1 2 05 52 00 01",
+        "DESCRIPCION": "                 Trabajos Publicos",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 71,
+        "IDDETALLE": 71,
+        "CUENTA": "1 1 2 05 52 00 01 10",
+        "DESCRIPCION": "                    Obras",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 72,
+        "IDDETALLE": 72,
+        "CUENTA": "1 1 2 05 52 00 01 10 01",
+        "DESCRIPCION": "                       Cordon cuneta y afines",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 73,
+        "IDDETALLE": 73,
+        "CUENTA": "1 1 2 05 52 00 01 10 03",
+        "DESCRIPCION": "                       Ampliacion Red Alumb. Publico",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 74,
+        "IDDETALLE": 74,
+        "CUENTA": "1 1 2 05 52 00 01 10 04",
+        "DESCRIPCION": "                       Ampliacion red agua Potable",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 75,
+        "IDDETALLE": 75,
+        "CUENTA": "1 1 2 05 52 00 01 10 05",
+        "DESCRIPCION": "                       Refaccion Balneario El Boyero",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 76,
+        "IDDETALLE": 76,
+        "CUENTA": "1 1 2 05 52 00 01 10 07",
+        "DESCRIPCION": "                       Barrio Municipal",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 77,
+        "IDDETALLE": 77,
+        "CUENTA": "1 1 2 05 52 00 01 10 11",
+        "DESCRIPCION": "                       Remodelacion y refaccion edificios publicos",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 78,
+        "IDDETALLE": 78,
+        "CUENTA": "1 1 2 05 52 00 01 10 15",
+        "DESCRIPCION": "                       Remodelacion y Refaccion Cementerio",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 79,
+        "IDDETALLE": 79,
+        "CUENTA": "1 1 2 05 52 00 01 10 16",
+        "DESCRIPCION": "                       Espacios verdes",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 80,
+        "IDDETALLE": 80,
+        "CUENTA": "1 1 2 05 52 00 01 10 19",
+        "DESCRIPCION": "                       Construcc. Alcantarillas y Desagues",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 81,
+        "IDDETALLE": 81,
+        "CUENTA": "1 1 2 05 52 00 01 10 20",
+        "DESCRIPCION": "                       Señalizacion de Calles",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 82,
+        "IDDETALLE": 82,
+        "CUENTA": "1 1 2 05 52 00 01 10 21",
+        "DESCRIPCION": "                       A Clasificar",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 83,
+        "IDDETALLE": 83,
+        "CUENTA": "1 1 2 05 52 00 01 10 22",
+        "DESCRIPCION": "                       Pavimentacion de calles",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 84,
+        "IDDETALLE": 84,
+        "CUENTA": "1 1 2 05 52 00 01 10 23",
+        "DESCRIPCION": "                       Ampliacion Red Gas",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 85,
+        "IDDETALLE": 85,
+        "CUENTA": "1 1 2 05 52 00 01 10 24",
+        "DESCRIPCION": "                       Planta de Tratamiento de Residuos(FID)",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 86,
+        "IDDETALLE": 86,
+        "CUENTA": "1 1 2 05 52 00 01 10 25",
+        "DESCRIPCION": "                       Cloacas (fid)",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 87,
+        "IDDETALLE": 87,
+        "CUENTA": "1 1 2 05 52 00 01 10 26",
+        "DESCRIPCION": "                       Pavimentacion de calles (FID)",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 88,
+        "IDDETALLE": 88,
+        "CUENTA": "1 1 2 05 52 00 01 10 27",
+        "DESCRIPCION": "                       Edific. Public. de otras Jurisdicciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 89,
+        "IDDETALLE": 89,
+        "CUENTA": "1 1 2 05 52 00 01 20",
+        "DESCRIPCION": "                    Obras de Urgencias y Eventuales",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 90,
+        "IDDETALLE": 90,
+        "CUENTA": "1 1 2 05 52 00 01 30",
+        "DESCRIPCION": "                    Obras con Colaboracion Vecinal",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 91,
+        "IDDETALLE": 91,
+        "CUENTA": "1 1 2 05 52 00 01 35",
+        "DESCRIPCION": "                    Obras c/aportes Prov.",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 92,
+        "IDDETALLE": 92,
+        "CUENTA": "1 1 2 05 52 00 01 36",
+        "DESCRIPCION": "                    Otros",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 93,
+        "IDDETALLE": 93,
+        "CUENTA": "1 1 2 05 52 00 01 40",
+        "DESCRIPCION": "                    Servicios",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 94,
+        "IDDETALLE": 94,
+        "CUENTA": "1 1 2 05 52 00 01 40 01",
+        "DESCRIPCION": "                       Mant. Calles y Caminos",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 95,
+        "IDDETALLE": 95,
+        "CUENTA": "1 1 2 05 52 00 01 40 02",
+        "DESCRIPCION": "                       Mant. Parques y Jardines",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 96,
+        "IDDETALLE": 96,
+        "CUENTA": "1 1 2 05 52 00 01 40 03",
+        "DESCRIPCION": "                       Mant. Cementerio y Capilla",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 97,
+        "IDDETALLE": 97,
+        "CUENTA": "1 1 2 05 52 00 01 40 04",
+        "DESCRIPCION": "                       Recoleccion de Residuos y Limpieza de la Ciudad",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 98,
+        "IDDETALLE": 98,
+        "CUENTA": "1 1 2 05 52 00 01 40 05",
+        "DESCRIPCION": "                       Mant. Red Alumbrado Público",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 99,
+        "IDDETALLE": 99,
+        "CUENTA": "1 1 2 05 52 00 01 40 06",
+        "DESCRIPCION": "                       Mantenimiento Red Agua Potable",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 100,
+        "IDDETALLE": 100,
+        "CUENTA": "1 1 2 05 52 00 01 40 07",
+        "DESCRIPCION": "                       Fumigación",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 101,
+        "IDDETALLE": 101,
+        "CUENTA": "1 1 2 05 52 00 01 40 08",
+        "DESCRIPCION": "                       Mant. Establecimientos Educacionales",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 102,
+        "IDDETALLE": 102,
+        "CUENTA": "1 1 2 05 52 00 01 40 09",
+        "DESCRIPCION": "                       Mant. Establecimientos Hospitalarios",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 103,
+        "IDDETALLE": 103,
+        "CUENTA": "1 1 2 05 52 00 01 40 10",
+        "DESCRIPCION": "                       Otros",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 104,
+        "IDDETALLE": 104,
+        "CUENTA": "1 1 2 05 52 00 01 40 11",
+        "DESCRIPCION": "                       Mantenimiento Complejo Deportivo",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 105,
+        "IDDETALLE": 105,
+        "CUENTA": "1 1 2 05 52 00 01 50",
+        "DESCRIPCION": "                    Obras Plan Componentes Materiales",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 106,
+        "IDDETALLE": 106,
+        "CUENTA": "1 1 2 05 52 00 02",
+        "DESCRIPCION": "                 Personal (Secretaria de O. y S. Publicos)",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 107,
+        "IDDETALLE": 107,
+        "CUENTA": "1 1 2 05 52 00 02 10",
+        "DESCRIPCION": "                    Personal Permanente",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 108,
+        "IDDETALLE": 108,
+        "CUENTA": "1 1 2 05 52 00 02 10 01",
+        "DESCRIPCION": "                       Remuneraciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 109,
+        "IDDETALLE": 109,
+        "CUENTA": "1 1 2 05 52 00 02 10 02",
+        "DESCRIPCION": "                       Adicionales",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 110,
+        "IDDETALLE": 110,
+        "CUENTA": "1 1 2 05 52 00 02 10 03",
+        "DESCRIPCION": "                       Contribuciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 111,
+        "IDDETALLE": 111,
+        "CUENTA": "1 1 2 05 52 00 02 20",
+        "DESCRIPCION": "                    Personal Temporario",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 112,
+        "IDDETALLE": 112,
+        "CUENTA": "1 1 2 05 52 00 02 20 01",
+        "DESCRIPCION": "                       Remuneraciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 113,
+        "IDDETALLE": 113,
+        "CUENTA": "1 1 2 05 52 00 02 20 02",
+        "DESCRIPCION": "                       Adicionales",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 114,
+        "IDDETALLE": 114,
+        "CUENTA": "1 1 2 05 52 00 02 20 03",
+        "DESCRIPCION": "                       Contribuciones",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 115,
+        "IDDETALLE": 115,
+        "CUENTA": "1 1 2 05 52 00 02 30",
+        "DESCRIPCION": "                    Asignaciones Familiares",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 116,
+        "IDDETALLE": 116,
+        "CUENTA": "1 1 2 05 52 00 02 40",
+        "DESCRIPCION": "                    Servicios Extraordinarios",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 117,
+        "IDDETALLE": 117,
+        "CUENTA": "1 1 2 06",
+        "DESCRIPCION": "        BIENES PREEXISTENTES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 118,
+        "IDDETALLE": 118,
+        "CUENTA": "1 1 2 06 61",
+        "DESCRIPCION": "           BIENES PREEXISTENTES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 119,
+        "IDDETALLE": 119,
+        "CUENTA": "1 1 2 06 61 10",
+        "DESCRIPCION": "              TERRENOS",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 120,
+        "IDDETALLE": 120,
+        "CUENTA": "1 1 2 06 61 20",
+        "DESCRIPCION": "              EDIFICIOS",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 121,
+        "IDDETALLE": 121,
+        "CUENTA": "1 1 2 07",
+        "DESCRIPCION": "        INVERSION FINANCIERA",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 122,
+        "IDDETALLE": 122,
+        "CUENTA": "1 1 2 07 71",
+        "DESCRIPCION": "           TRANSF. PARA FINANC. EROG. DE CAP.",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 123,
+        "IDDETALLE": 123,
+        "CUENTA": "1 1 2 07 71 10",
+        "DESCRIPCION": "              APORTES A OTROS ENTES (H.C.D.)",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 124,
+        "IDDETALLE": 124,
+        "CUENTA": "1 1 2 07 71 20",
+        "DESCRIPCION": "              APORTES A OTRAS ENTIDADES",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 125,
+        "IDDETALLE": 125,
+        "CUENTA": "1 1 2 08",
+        "DESCRIPCION": "        A CLASIFICAR",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 126,
+        "IDDETALLE": 126,
+        "CUENTA": "1 1 2 08 81",
+        "DESCRIPCION": "           CREDITO ADICIONAL PARA FINANC. EROG. DE CAP.",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 127,
+        "IDDETALLE": 127,
+        "CUENTA": "1 1 2 08 81 10",
+        "DESCRIPCION": "              CREDITO ADICIONAL PARA FINANC. EROG. DE CAP.",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 128,
+        "IDDETALLE": 128,
+        "CUENTA": "1 1 3",
+        "DESCRIPCION": "     OTRAS EROGACIONES",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 129,
+        "IDDETALLE": 129,
+        "CUENTA": "1 1 3 09",
+        "DESCRIPCION": "        EROGACIONES FIGURATIVAS",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 130,
+        "IDDETALLE": 130,
+        "CUENTA": "1 1 3 10",
+        "DESCRIPCION": "        AMORTIZACION DE DEUDA",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 131,
+        "IDDETALLE": 131,
+        "CUENTA": "1 1 3 10 101",
+        "DESCRIPCION": "            AMORTIZACION DE DEUDA",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 132,
+        "IDDETALLE": 132,
+        "CUENTA": "1 1 3 10 101 10",
+        "DESCRIPCION": "               BOSO",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 133,
+        "IDDETALLE": 133,
+        "CUENTA": "1 1 3 10 101 20",
+        "DESCRIPCION": "               BANCO DE CREDITO ARGENTINO",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 134,
+        "IDDETALLE": 134,
+        "CUENTA": "1 1 3 10 101 30",
+        "DESCRIPCION": "               PRESTAMO LEY 6964",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 135,
+        "IDDETALLE": 135,
+        "CUENTA": "1 1 3 10 101 40",
+        "DESCRIPCION": "               APORTES REINTEGRABLES",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 136,
+        "IDDETALLE": 136,
+        "CUENTA": "1 1 3 10 101 50",
+        "DESCRIPCION": "               PACTO DE OBRAS",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 137,
+        "IDDETALLE": 137,
+        "CUENTA": "1 1 3 10 101 60",
+        "DESCRIPCION": "               PRODISM",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 138,
+        "IDDETALLE": 138,
+        "CUENTA": "1 1 3 10 102",
+        "DESCRIPCION": "            AMORTIZACION DE OTRAS DEUDAS",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 139,
+        "IDDETALLE": 139,
+        "CUENTA": "1 1 3 10 102 10",
+        "DESCRIPCION": "               FONDO FIDUCIARIO",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 140,
+        "IDDETALLE": 140,
+        "CUENTA": "1 1 3 10 102 20",
+        "DESCRIPCION": "               GASNOR - OBRA GAS NATURAL",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 141,
+        "IDDETALLE": 141,
+        "CUENTA": "1 1 3 10 102 30",
+        "DESCRIPCION": "               DEUDA ALUMBRADO PUBLICO EDET",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 142,
+        "IDDETALLE": 142,
+        "CUENTA": "1 1 3 10 102 40",
+        "DESCRIPCION": "               FONDO FEDERAL SOLIDARIO",
+        "HIJO": 1,
+        "MONTO": 0,
+        "SALDO": 0
+    },
+    {
+        "IDCABPRE": 1,
+        "IDDETPRE": 143,
+        "IDDETALLE": 143,
+        "CUENTA": "1 1 3 11",
+        "DESCRIPCION": "        ADELANTO A PROVEE. Y CONTRATISTAS",
+        "HIJO": 0,
+        "MONTO": 0,
+        "SALDO": 0
+    }
+]
